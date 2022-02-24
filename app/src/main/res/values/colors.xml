@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="background">#E9967A</color>
     <color name="titulo">#4682B4</color>
+    <color name="textbox">#8697C3D6</color>
 </resources>
